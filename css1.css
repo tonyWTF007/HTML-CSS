@@ -1,0 +1,33 @@
+
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  list-style: none; 
+  padding: 0px;
+}
+
+.pagination li a {
+  display: block; 
+  padding: 8px 12px;
+  text-decoration: none;
+  border: 1px solid rgb(48, 18, 219);
+  color: rgb(0, 0, 0);  
+  margin: 0 4px;
+  border-radius: 10px; 
+}
+
+body{
+    background-color: aliceblue;
+
+}
+
+style{
+    .článek{
+        column-count: 3;
+    }
+}
+
+div {
+
+}
