@@ -243,7 +243,7 @@ a{
 
 .left2-side{
     background-image: url(./images/pexels-photo-6474449.jpeg);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     padding: 0.2rem 5rem;
@@ -259,6 +259,7 @@ a{
 
 .nadpis-r-2{
     padding: 1rem;
+    
 }
 
 .text-r-2{
@@ -328,3 +329,12 @@ a{
     box-shadow: rgba(206, 205, 205, 0.0) 2px 5px  ;
     transition: 0.15s;
 }
+
+/* -------------page3----------------- */
+
+.page3{
+    margin-inline: 0.8rem;
+    display: flex;
+    background-color: white;
+}
+
