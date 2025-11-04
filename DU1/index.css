@@ -335,6 +335,40 @@ a{
 .page3{
     margin-inline: 0.8rem;
     display: flex;
+    justify-content: center;
+    align-items: flex-start;
     background-color: white;
+    
+    
+}
+
+.obrázek3-r{
+    background-image: url(./images/empty-floor-front-modern-building_1127-3154.jpg.jpeg);
+    background-size: 40rem;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: top;
+    padding: 11rem;
+}
+
+.obrázek3-l{
+    background-image: url(./images/jhjh-min.jpg.jpeg);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 12rem;
+
+}
+
+.right3-side{
+    flex: 0 0 50rem;
+    margin-right: 10rem;
+    
+}
+
+.left3-side{
+    flex: 0 0 40;
+    margin-left: 10rem;
+    margin-right: 10rem;
 }
 
