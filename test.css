@@ -1,0 +1,62 @@
+.page1{
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.mCLpF0xfzU3TpoNBLAngYQHaEL?rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 50rem;
+    
+    
+
+}
+
+.up{
+    color: white;
+    display: flex;
+    
+    align-items: center;
+    gap: 1rem;
+
+    
+    
+}
+.txt{
+    margin-left: 2rem;
+    margin-right: 65rem;
+    
+}
+.txt2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    
+}
+
+.cara{
+    background-color: black;
+    height: 20px;
+    width: 1000px;
+}
+
+.main-text{
+    text-transform: bold;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+    padding-inline: 30rem;
+    margin-top: 20rem;
+    
+}
+.tl-3{
+    margin-top: 2rem;
+    padding: 1.1rem ;
+    border-radius: 30px;
+    background-color: rgba(33, 56, 131, 0.9);
+    outline: none;
+    border: none;
+}
